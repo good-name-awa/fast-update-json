@@ -1,0 +1,19 @@
+{
+  "footer": "Atest!",
+  "entries": [
+    {
+      "version": "11.45.14",
+      "date": "2026-11-11",
+      "title": "test",
+      "type": ["1","2","3","4","5"],
+      "tags": ["tag1", "tag2"],
+      "color": "0xFFFFFF00",
+      "changes": [
+        "Example",
+        "Example"
+      ]
+    }
+  ],
+  "tagColors": {
+  "Example": "#5555FF"}
+}
