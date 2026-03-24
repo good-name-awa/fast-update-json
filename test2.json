@@ -1,0 +1,16 @@
+{
+  "footer": "Example",
+  "entries": 
+    {
+      "version": "0.0.1",
+      "date": "2026-03-24",
+      "title": "第一个版本",
+      "type": ["新开副本"],
+      "tags": [],
+      "color": "0xFFFFFF00",
+      "changes": [
+        "初始版本",
+        "测试"
+      ]
+}
+}
